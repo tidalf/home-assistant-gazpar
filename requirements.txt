@@ -2,6 +2,6 @@
 --extra-index-url https://pypi.org/simple
 flake8
 pytest
-pygazpar
+git+https://github.com/tidalf/PyGazpar@master#egg=pygazpar
 pandas
 homeassistant == 2021.11.5
